@@ -1,1 +1,2 @@
 /api/* https://jsonplaceholder.typicode.com/:splat 200
+/get-word /.netlify/functions/getWord/getWord.js 200
