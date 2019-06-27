@@ -1,6 +1,8 @@
 {
   "name": "netlify-dev-demo",
   "version": "1.0.0",
+  "description": "A Netlify Dev app that retrieves random words and names.",
+  "author": "Graham Swan <thinkswan@gmail.com>",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
